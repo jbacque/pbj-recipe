@@ -1,0 +1,20 @@
+h1 {
+  color: darkred;
+}
+
+h2 {
+  color: rgb(34, 122, 231);
+}
+
+/* Center fixed-width layouts */
+html {
+  background: maroon;
+}
+
+body {
+  width: 600px;
+  background: lightblue;
+  margin: 50px auto;
+  border: 2px solid blue;
+  padding: 25px 75px;
+}
